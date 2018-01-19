@@ -64,8 +64,6 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
@@ -74,9 +72,9 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "Fall 2013",
-      "endDate": "Fall 2019",
-      "gpa": "",
+      "startDate": "2013",
+      "endDate": "2019",
+      "gpa": "3.4",
       "courses": [
       ]
     }
@@ -111,7 +109,7 @@
     {
       "title": "",
       "date": "t",
-      "awarder": "State of Hawaii",
+      "awarder": "",
       "summary": ""
     }
   ],
