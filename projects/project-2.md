@@ -5,7 +5,7 @@ image: images/javaProject2.png
 title: Java Project 2
 permalink: projects/javaProject2
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-18
+date: 2016
 labels:
   - Java
 summary: This collection project was the second project I was tasked with as an ICS student.  
