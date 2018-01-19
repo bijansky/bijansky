@@ -5,7 +5,7 @@ image: images/javaProject3.png
 title: Java Project 3
 permalink: projects/javaProject3
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-06
+date: 2016
 labels:
   - Java
 summary: This was my final project for my ICS 111 class that I developed with my partner Dylan Kong.
