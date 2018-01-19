@@ -1,61 +1,22 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/javaProject3.png
+title: Java Project 3
+permalink: projects/javaProject3
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2015-12-06
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+summary: This was my final project for my ICS 111 class that I developed with my partner Dylan Kong.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/javaProject3.png ">
+</div>
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This project was about developing a game with a partner that involved everything we learned through the semester. Looking back the game we made, it was a very simple top down puzzle game. The user would control a character and be tasked to collect specific items hidden through the map in order to fix a broken robot and open a sealed door. Once the user collected all the items and fixed the robot the door would be opened and they would have beat the game. This project was massive at the time, even for two people. It involved the use of a RNG, being very proficient in for loops, while loops, if else statements, and being able to create our own map layout and work together as a team to meet our goals.
 
-To give you a flavor of the game, here is an excerpt from one run:
+This final project is something I will always be extremely proud of.  It thought be a lot about my own capabilities and the importance of using your recourses. I was always afraid to ask questions or show my weak points with coding. But with such a huge ask for my first semester coding I had to ask as many questions as I could and talk to a lot of people in my class, not only my partner. This has given me the best outlook and insight to what I am capable of with the passion I had developed for coding.
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+Source: <a href="https://www.youtube.com/watch?v=11zyL9VGmBI"><i class="large github icon "></i>jogarces/</a>
