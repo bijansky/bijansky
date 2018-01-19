@@ -19,4 +19,4 @@ This project was about developing a very simple collection game similar to my fi
 
 My experience with coding was growing with everyday I had to work on my project. I went from nothing to something in a matter of a few weeks. Where at day one of class, I was scared if I could ever produce something. I really started enjoy the challenge and critical thinking that came with my assigned projects. Of course I would still see red lines in my IDE and have tons of bugs in my code, but at this point I knew that no one is perfect at coding, even those who have been doing it for years get bugs. I started to develop a serious passion for coding by the end of this project.
 
-Source: <a href="https://www.youtube.com/watch?v=K8UMINtRM2g"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://www.youtube.com/watch?v=K8UMINtRM2g"><i class="large github icon"></i>YouTube Link</a>
