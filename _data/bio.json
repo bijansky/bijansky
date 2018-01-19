@@ -79,22 +79,22 @@
   ],
   "work": [
     {
-      "N/A"
+      "company":"N/A"
     }
   ],
   "volunteer": [
     {
-      "N/A"
+      "organization":"N/A"
     }
   ],
   "awards": [
     {
-      "N/A"
+      "title":"N/A"
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name":"Available upon request",
       "reference": ""
     }
   ]
