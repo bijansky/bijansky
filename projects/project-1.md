@@ -5,7 +5,7 @@ image: images/javaProject1.png
 title: Java Project 1
 permalink: projects/javaProject1
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-18
+date: 2016
 labels:
   - Java
 summary: This collection project was the first project I was tasked with as an ICS student.  
