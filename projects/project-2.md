@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/javaProject1.png
-title: Java Project 1
-permalink: projects/javaProject1
+image: images/javaProject2.png
+title: Java Project 2
+permalink: projects/javaProject2
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-18
+date: 2015-08-18
 labels:
   - Java
 summary: This collection project was the second project I was tasked with as an ICS student.  
