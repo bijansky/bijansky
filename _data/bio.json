@@ -79,7 +79,7 @@
   ],
   "work": [
     {
-      "company": " ",
+      "company": "N/A",
       "position": " ",
       "website": " ",
       "startDate": " ",
@@ -92,7 +92,7 @@
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "N/A",
       "website": "",
       "position": "",
       "startDate": "",
@@ -105,7 +105,7 @@
   ],
   "awards": [
     {
-      "title": "",
+      "title": "N/A",
       "date": "",
       "awarder": "",
       "summary": ""
