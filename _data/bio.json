@@ -76,5 +76,25 @@
       "courses": [
       ]
     }
+  ],
+  "work": [
+    {
+      "company": "N/A"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "N/A"
+    }
+  ],
+  "awards": [
+    {
+      "title": "N/A"
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
   ]
 }
