@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Which Path Is For Me
+title: In The World Of Coding
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-19
 labels:
