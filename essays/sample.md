@@ -9,10 +9,12 @@ labels:
   - JavaScript
   - Learning
 ---
+In the world of science and technology, we all appreciate a good problem to solve. Weather you are an Engineer, Mathematician, Chemist, or Computer Scientist, just to name a few fields, we are all united as problem solvers. It is the core foundation of our fields of study to solve problems, and proper communication plays a huge role into solving all the problems we will be faced with.  
 
+When one comes across a particularly head-scratching problem to solve, our fields of study encourage collaboration. This encouragement is really a push to ask questions from the recourses you have, and as the old saying goes “two heads are better than one”. Particularly in the world of Software Engineering, being able to ask your question in a smart way is highly important.  To illustrate this point lets first look at an example of a bad question.
 
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/HelloWorld.jpg ">
 </div>
 
-   In the world of coding I am still a complete newbie. With only three languages under my belt, Java, C, and C++, I am far from being a full-fledged programmer; I am more of a programmer in training. When learning all three of these languages, I found them to be very unforgiving and to me, not very intuitive for some concepts. I also found the syntax from some of these languages to be overwhelming for the first languages I learned. A year and a half into my Computer Science degree and I was never confident with my code, not until my first Software Engineering class, ICS 314, where I had to learn JavaScript. 
+
