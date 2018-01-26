@@ -19,4 +19,4 @@ This project was about developing a game with a partner that involved everything
 
 This final project is something I will always be extremely proud of.  It thought be a lot about my own capabilities and the importance of using your recourses. I was always afraid to ask questions or show my weak points with coding. But with such a huge ask for my first semester coding I had to ask as many questions as I could and talk to a lot of people in my class, not only my partner. This has given me the best outlook and insight to what I am capable of with the passion I had developed for coding.
 
-Source: <a href="https://www.youtube.com/watch?v=11zyL9VGmBI"><i class="large github icon "></i>jogarces/</a>
+Link: <a href="https://www.youtube.com/watch?v=11zyL9VGmBI"><i class="large github icon "></i>jogarces/</a>
