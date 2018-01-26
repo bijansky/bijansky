@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/javaProject1.png
-title: Java Project 1
+title: My very first java game!
 permalink: projects/javaProject1
 # All dates must be YYYY-MM-DD format!
 date: 2016
