@@ -6,7 +6,6 @@ title: So You Have A Problem
 date: 2018-25-19
 labels:
   - Software Engineering
-  - JavaScript
   - Smart Questions
 ---
 
