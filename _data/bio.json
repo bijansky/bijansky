@@ -79,14 +79,22 @@
   ],
   "work": [ 
     {
-    "position": "Bartender"
-    "company": "Brick Oven Pizza Hawaii."
+       "company": "Brick Oven Pizza Hawaii",
+      "position": "Bartender/Server/Cook",
+      "website": "",
+      "startDate": "2012",
+      "endDate": "2017",
+      "summary": "",
+      "highlights": [
+       
     }
     ],
   "awards": [
     {
-      "title": "UH Manoa Giving Tree Scholarship"
-   
+      "title": "Giving Tree Scholarship",
+      "date": "2016-Present",
+      "awarder": "UH Manoa",
+      "summary": "awarded for superior preformance in Air Force ROTC."
     }
   ],
   "references": [
