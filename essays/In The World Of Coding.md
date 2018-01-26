@@ -11,7 +11,7 @@ labels:
 ---
 
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/HelloWorld.jpg ">
 </div>
 
