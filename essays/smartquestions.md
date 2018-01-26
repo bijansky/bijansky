@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: So You Have A Problem 
 # All dates must be YYYY-MM-DD format!
-date: 2018-25-19
+date: 2018-01-25
 labels:
   - Software Engineering
   - Smart Questions
