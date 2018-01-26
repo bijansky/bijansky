@@ -18,7 +18,7 @@ In the following post on StackOverflow, the author asks
 
 
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/bad.jpg ">
+  <img class="ui image" src="../images/bad.png ">
 </div>
 
 
@@ -29,7 +29,7 @@ In the following post on StackOverflow, the author asks
 
 
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/good.jpg ">
+  <img class="ui image" src="../images/good.png ">
 </div>
 
 
