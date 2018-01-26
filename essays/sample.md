@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: What To Do When You Have A Problem 
+title: When You Have A Problem 
 # All dates must be YYYY-MM-DD format!
 date: 2018-25-19
 labels:
