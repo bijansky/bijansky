@@ -23,7 +23,7 @@ We can see that the author does not provide any detail to his problem, and in or
 
 In the following post on StackOverflow, the author asks 
 
-<div class="ui large rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/HelloWorld.jpg ">
 </div>
 
