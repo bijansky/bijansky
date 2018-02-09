@@ -13,7 +13,7 @@ labels:
 ---
 
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/HelloWorld.jpg ">
+  <img class="ui image" src="../images/manyErrors.gif ">
 </div>
 
 Before ICS 314, my first software development class, I used an IDE called Ecllipse. It was the first IDE I have ever used and it was in this IDE that I had my first experience coding. My first ICS professor made the whole class use Ecllipse because it can check your code just as spell check can check for spelling and grammar errors. I thought that this was such a cool concept. The Ecllipse interface and overall checking it did of my code, saved me so much time to debug what was going wrong with my programs. 
