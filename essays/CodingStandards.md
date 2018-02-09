@@ -1,64 +1,26 @@
-====== Free Bootstrap Template Corporate, HTML5 and CSS3 ====== 
+---
+layout: essay
+type: essay
+title: Red Lines Everwhere!
+# All dates must be YYYY-MM-DD format!
+date: 2018-02-08
+labels:
+  - Software Engineering
+  - JavaScript
+  - Learning
+  - ESLint
+  - IDEs
+---
 
-Description :       Un template responsive basé sur le framework Bootstrap, avec des rich snippets pour Google, valide html5, formulaire de contact sécurisé, proposé en téléchargement gratuit.
-Twitter:            @gibertpascal
-Author URL:         http://intelligence-web.com
-Project URL:       http://intelligence-web.com/free-bootstrap-template-corporate/01/06/2014/ - 
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/HelloWorld.jpg ">
+</div>
 
-Version Template:   1.0
-Date:               May 2014
-Licence CC BY-SA 4.0 : http://creativecommons.org/licenses/by-sa/4.0/
+Before ICS 314, my first software development class, I used an IDE called Ecllipse. It was the first IDE I have ever used and it was in this IDE that I had my first experience coding. My first ICS professor made the whole class use Ecllipse because it can check your code just as spell check can check for spelling and grammar errors. I thought that this was such a cool concept. The Ecllipse interface and overall checking it did of my code, saved me so much time to debug what was going wrong with my programs. 
 
-====== Caractéristiques du template ======
+The day came in ICS 314 that we were instructed to use a new IDE called IntelliJ, and with IntelliJ we would be using something I have never heard of called ESLint. Without ESLint enabled IntelliJ felt a lot like Ecllipse. It was a straightforward IDE with its own system checking and debugging, I could write code just as I did in Ecllipse and be just fine. But the power of using IntelliJ came with the option to use ESLint also. ESLint as I found out analyses your code for more than just errors, but checks the style in white you are writing your code. 
 
-Un menu responsive
-Un bloc services de trois sections en page d’accueil
-Une page index
-Une page à propos
-Une page service 1
-Une page service 2
-Une page service 3
-Une page PHP contact avec captcha
-Fontawesome icons
-Fil d’ariane (breadcrumb) présent sur toutes les pages
-Méta author page Google Plus
+The first time I enabled ESLint I freaked out, because all of a sudden once I enable ESLint I am getting red lines everywhere! Even for code that runs and executes as its suppose to without throwing errors. I didn’t know what any of the red lines were telling me. I thought that I broke everything or that I was not using ESLint properly.
+But once I took the time to breath and look at exactly what ESLint was trying to tell me I understood the bigger picture. 
 
-====== Instructions ======
-
-Changer chaque titre de page, méta description, les titres et fichiers html des services, les liens et titres dans la section « breadcrumb », le lien de la page Google plus dans les métas. Penser à changer le mail dans la page contact.php.
-
-====== Crédits ======
-
-Font Awesome Icons : http://fontawesome.io
-Exemples Codes Icons: http://fontawesome.io/examples/
-Formulaire de contact sécurisé: http://www.html-form-guide.com/contact-form/html-contact-form-captcha.html
-
-======  En ====== 
-
-Description :  A responsive template based on the Bootstrap framework, with rich snippets to Google, valid html5, Secure Contact Form, available as a free download.
-
-======  Characteristics of the template ====== 
-
-A responsive menu
-Block services of three sections homepage
-An index page
-A page about us
-Service 1 page
-Service page 2
-Service page 3
-PHP page contact with captcha
-Fontawesome icons
-Breadcrumb present on all pages
-Meta author page Google Plus
-
-====== Instructions ======
-
-Change each page title, meta description, title and htm files services, links and titles in the "breadcrumb" link of the Google page in meta more. Think about changing the mail in the contact.php page.
-
-====== Crédits ======
-
-Font Awesome Icons : http://fontawesome.io
-Exemples Codes Icons: http://fontawesome.io/examples/
-Formulaire de contact sécurisé: http://www.html-form-guide.com/contact-form/html-contact-form-captcha.html
-
-Enjoy! ;)
+Using ESLint is really helping me to change the way I write code. It’s almost like having an English teacher check your grammar and spelling before you turn in your paper. ESLint It lets me know if what I am doing follows a specific code writing style and if it’s acceptable. What I really enjoy is all the red lines that use to freak me out are actually getting to be fun to get rid of, because once you do you get a green check mark. That really becomes the goal when I am formatting my code now. ESLint really challenges you to look at every keystroke you make and in turn is making us all better programmers!
