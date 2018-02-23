@@ -1,64 +1,24 @@
-====== Free Bootstrap Template Corporate, HTML5 and CSS3 ====== 
+---
+layout: essay
+type: essay
+title: Look mom I can build a website!
+# All dates must be YYYY-MM-DD format!
+date: 2018-02-22
+labels:
+  - Software Engineering
+  - HTML
+  - CSS
+  - Semantic UI
+---
 
-Description :       Un template responsive basé sur le framework Bootstrap, avec des rich snippets pour Google, valide html5, formulaire de contact sécurisé, proposé en téléchargement gratuit.
-Twitter:            @gibertpascal
-Author URL:         http://intelligence-web.com
-Project URL:       http://intelligence-web.com/free-bootstrap-template-corporate/01/06/2014/ - 
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/manyErrors.gif ">
+</div>
 
-Version Template:   1.0
-Date:               May 2014
-Licence CC BY-SA 4.0 : http://creativecommons.org/licenses/by-sa/4.0/
+This week I learned to use HTML and CSS. I just want to say that it has been extremely fun! I have never used or seen HTML or CSS before this week. The only languages that I know so far in my career at a Computer Scientist are Java, JavaScript, and C. So coming into HTML and CSS it was completely different in. The syntax is not the same as the other languages I know and I find myself having to think differently that if I was coding Java, JavaScript, and C. But all of the differences that HTML and CSS have from a standard coding language are what makes it extremely refreshing for me. 
 
-====== Caractéristiques du template ======
+With that being said this does not mean that HTML or CSS came easy to me. I had to put in a lot of work everyday to become even slightly proficient. Getting use to how the language reads and writs was my biggest problem. This forced me to slow down and really give it my full attention. When it came to the practice WODs for 314, I struggled quite a bit on the containers and div tags that HTML and CSS has. I remember the first WOD that we had I believe I attempted it more than 10 times before I did it 100% perfect. But every time I tried again I got closer and closer to solving it. Just goes to show that time and effort pay off!
 
-Un menu responsive
-Un bloc services de trois sections en page d’accueil
-Une page index
-Une page à propos
-Une page service 1
-Une page service 2
-Une page service 3
-Une page PHP contact avec captcha
-Fontawesome icons
-Fil d’ariane (breadcrumb) présent sur toutes les pages
-Méta author page Google Plus
+Working hard on HTML and CS paid off once we got to Semantic UI. The learning curve for me was and still is very steep. My work prior helped me to start off a bit faster than a slow crawl. Building more attractive websites is what kept me going to really try and understand and master Semantic UI. Every practice WOD that we did has me a little more comfortable with the interface and that really put joy into my mind that if I can just stay focused I could eventually get comfortable with Semantic UI. 
 
-====== Instructions ======
-
-Changer chaque titre de page, méta description, les titres et fichiers html des services, les liens et titres dans la section « breadcrumb », le lien de la page Google plus dans les métas. Penser à changer le mail dans la page contact.php.
-
-====== Crédits ======
-
-Font Awesome Icons : http://fontawesome.io
-Exemples Codes Icons: http://fontawesome.io/examples/
-Formulaire de contact sécurisé: http://www.html-form-guide.com/contact-form/html-contact-form-captcha.html
-
-======  En ====== 
-
-Description :  A responsive template based on the Bootstrap framework, with rich snippets to Google, valid html5, Secure Contact Form, available as a free download.
-
-======  Characteristics of the template ====== 
-
-A responsive menu
-Block services of three sections homepage
-An index page
-A page about us
-Service 1 page
-Service page 2
-Service page 3
-PHP page contact with captcha
-Fontawesome icons
-Breadcrumb present on all pages
-Meta author page Google Plus
-
-====== Instructions ======
-
-Change each page title, meta description, title and htm files services, links and titles in the "breadcrumb" link of the Google page in meta more. Think about changing the mail in the contact.php page.
-
-====== Crédits ======
-
-Font Awesome Icons : http://fontawesome.io
-Exemples Codes Icons: http://fontawesome.io/examples/
-Formulaire de contact sécurisé: http://www.html-form-guide.com/contact-form/html-contact-form-captcha.html
-
-Enjoy! ;)
+A week ago I didn’t know what HTML or CSS code looked like, but now I’m quite comfortable with both. A week ago I never heard of Semantic UI, but now I want to dive into it and really see what it has to offer me. I look forward to what I can accomplish, and what skills that I can develop with my persistent focused on these subjects!
