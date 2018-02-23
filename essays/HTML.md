@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/manyErrors.gif ">
+  <img class="ui image" src="../images/html.jpg ">
 </div>
 
 This week I learned to use HTML and CSS. I just want to say that it has been extremely fun! I have never used or seen HTML or CSS before this week. The only languages that I know so far in my career at a Computer Scientist are Java, JavaScript, and C. So coming into HTML and CSS it was completely different in. The syntax is not the same as the other languages I know and I find myself having to think differently that if I was coding Java, JavaScript, and C. But all of the differences that HTML and CSS have from a standard coding language are what makes it extremely refreshing for me. 
