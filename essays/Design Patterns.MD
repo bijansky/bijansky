@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Design Patterns
+title: Don't freak out, it's just design pattern! 
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
@@ -11,7 +11,7 @@ labels:
   - Semantic UI
 ---
 
-🚀 Introduction
+  Introduction
 =================
 
 When trying to wrap your head around design patterns for the coding world, it helps to take a virtual step back, and remove all thoughts of C, C++, Java, or [insert your favorite coding language here that for some reason is better than all the others because YOU use it] from your mind. The simplicity of the concept is in the words themselves. When you hear the words “design patterns” break the meaning of each word up separately, and then combine. The word “design” according to Webster’s Dictionary is: to create, fashion, execute, or construct according to plan. The word “patterns” according to Webster’s Dictionary is: a form or model proposed for imitation. 
