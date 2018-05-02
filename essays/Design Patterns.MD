@@ -14,7 +14,7 @@ labels:
 ---
 
 <div class="ui centered large image">
-  <img class="ui image" src="../images/DP.jpg ">
+  <img class="ui image" src="../images/design.png ">
 </div>
 
   Introduction
