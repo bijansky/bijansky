@@ -13,8 +13,8 @@ labels:
   - Factory
 ---
 
-<div class="ui segment">
-  <img class="ui centered image" src="../images/DP.jpg ">
+<div class="ui segment centered large image">
+  <img class="ui image" src="../images/DP.jpg ">
 </div>
 
   Introduction
