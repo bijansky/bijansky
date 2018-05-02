@@ -14,7 +14,7 @@ labels:
 ---
 
 
-  <img class="ui image" src="../images/design.png ">
+  <img align="center" src="../images/design.png ">
 
 
   Introduction
