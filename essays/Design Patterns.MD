@@ -42,7 +42,8 @@ Personal Application
 2. Model View Controller (MVC)
 
 Real world example
->In a restaurant you never see just one employee take your order, go to the back and cook your food, arrange your food nicely on the plate, then come back out and serve you your food. In a restaurant there are specialties at each step of the process to ensure there is a system to the whole process. I encourage you to watch the video link provided so get a more detailed understanding on this real world MVC example. https://youtu.be/f46WEeM8HTA
+>In a restaurant you never see just one employee take your order, go to the back and cook your food, arrange your food nicely on the plate, then come back out and serve you your food. In a restaurant there are specialties at each step of the process to ensure there is a system to the whole process. I encourage you to watch the <a href="https://youtu.be/f46WEeM8HTA">video link</a> provided so get a more detailed understanding on this real world MVC example. 
+
 
 What going on
 >When implementing a user interface, it is desirable to decouple the internal represintation of information from the way it is presented to and accepted from the user.
