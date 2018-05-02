@@ -44,11 +44,10 @@ Personal Application
 Real world example
 >In a restaurant you never see just one employee take your order, go to the back and cook your food, arrange your food nicely on the plate, then come back out and serve you your food. In a restaurant there are specialties at each step of the process to ensure there is a system to the whole process. I encourage you to watch the <a href="https://youtu.be/f46WEeM8HTA">video link</a> provided so get a more detailed understanding on this real world MVC example. 
 
-
 What going on
 >When implementing a user interface, it is desirable to decouple the internal represintation of information from the way it is presented to and accepted from the user.
 
-Wikipedia says
+Wikipedia states
 >Model–view–controller is commonly used for developing software that divides an application into three interconnected parts. This is done to separate internal representations of information from the ways information is presented to and accepted from the user.[1][2] The MVC design pattern decouples these major components allowing for efficient code reuse and parallel development. Traditionally used for desktop graphical user interfaces (GUIs), this architecture has become popular for designing web applications and even mobile, desktop and other clients.
 
 Personal Application
