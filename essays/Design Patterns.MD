@@ -27,6 +27,7 @@ Combining the meanings we get a construction of an idea that follows a model pro
   Two Basic Patterns and Some Personal Application
 =================
 
+
 Singleton
 ------
 
@@ -34,7 +35,7 @@ Singleton
   <img class="ui image" src="../images/singleton.png ">
 </div>
 
-### A real world example
+#### A real world example
 >At any given time, there can only be one president of the United States, and that same president is required to be brought to action, whenever he is called.  
 
 #### What going on
