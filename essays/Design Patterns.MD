@@ -27,7 +27,8 @@ Combining the meanings we get a construction of an idea that follows a model pro
   Two Basic Patterns and Some Personal Application
 =================
 
-1. Singleton
+Singleton
+------
 
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/singleton.png ">
@@ -47,13 +48,14 @@ Wikipedia states
 Personal Application
 >Currently I am apart of a team designing an app that allows students to sigh up for tutoring sessions for classes they need help in. A problem arose where my team needed to ensure there was exactly one instance of our internal Tutors class. We used the design pattern singleton to solve this issue and make sure that one instance was accessible to our clients from a global access point. 
 
-2. Model View Controller (MVC)
+Model View Controller (MVC)
+------
 
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/MVC.png ">
 </div>
 
-Real world example
+A real world example
 >In a restaurant you never see just one employee take your order, go to the back and cook your food, arrange your food nicely on the plate, then come back out and serve you your food. In a restaurant there are specialties at each step of the process to ensure there is a system to the whole process. I encourage you to watch the <a href="https://youtu.be/f46WEeM8HTA">video link</a> provided so get a more detailed understanding on this real world MVC example. 
 
 What going on
