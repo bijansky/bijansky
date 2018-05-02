@@ -34,18 +34,18 @@ Singleton
   <img class="ui image" src="../images/singleton.png ">
 </div>
 
-A real world example
+### A real world example
 >At any given time, there can only be one president of the United States, and that same president is required to be brought to action, whenever he is called.  
 
-What going on
+### What going on
 >Provide a “global variable” in an object-oriented language that does not support global variables, and/or provide complex global state.
 
 >Ensures that only one object instance of a class is ever created.
 
-Wikipedia states
+### Wikipedia states
 >In software engineering, the singleton pattern is a software design pattern that restricts the instantiation of a class to one object. This is useful when exactly one object is needed to coordinate actions across the system.
 
-Personal Application
+### Personal Application
 >Currently I am apart of a team designing an app that allows students to sigh up for tutoring sessions for classes they need help in. A problem arose where my team needed to ensure there was exactly one instance of our internal Tutors class. We used the design pattern singleton to solve this issue and make sure that one instance was accessible to our clients from a global access point. 
 
 Model View Controller (MVC)
@@ -55,16 +55,16 @@ Model View Controller (MVC)
   <img class="ui image" src="../images/MVC.png ">
 </div>
 
-A real world example
+### A real world example
 >In a restaurant you never see just one employee take your order, go to the back and cook your food, arrange your food nicely on the plate, then come back out and serve you your food. In a restaurant there are specialties at each step of the process to ensure there is a system to the whole process. I encourage you to watch the <a href="https://youtu.be/f46WEeM8HTA">video link</a> provided so get a more detailed understanding on this real world MVC example. 
 
-What going on
+### What going on
 >When implementing a user interface, it is desirable to decouple the internal represintation of information from the way it is presented to and accepted from the user.
 
-Wikipedia states
+### Wikipedia states
 >Model–view–controller is commonly used for developing software that divides an application into three interconnected parts. This is done to separate internal representations of information from the ways information is presented to and accepted from the user.[1][2] The MVC design pattern decouples these major components allowing for efficient code reuse and parallel development. Traditionally used for desktop graphical user interfaces (GUIs), this architecture has become popular for designing web applications and even mobile, desktop and other clients.
 
-Personal Application
+### Personal Application
 >When my team first sat down and drafted up the bare bones of our app Study Hall, we did not know a whole lot about what we wanted and what we should have in our app. What we did know however was that we needed to implement a MVC design with whatever direction we took our Study Hall app. We knew that we needed to have a model database to store tutor, user, and class data/information. We knew we needed to have a basic view and layout of our app through HTML and CSS, or no one would be able to access our app. We also knew that we needed to have a controller to mediate and decide what the user would see; weather they were logged in as a tutor, user, or admin. Changing the view based on their login credentials.
 
 
