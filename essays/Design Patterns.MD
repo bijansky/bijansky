@@ -52,9 +52,6 @@ Wikipedia says
 >Model–view–controller is commonly used for developing software that divides an application into three interconnected parts. This is done to separate internal representations of information from the ways information is presented to and accepted from the user.[1][2] The MVC design pattern decouples these major components allowing for efficient code reuse and parallel development. Traditionally used for desktop graphical user interfaces (GUIs), this architecture has become popular for designing web applications and even mobile, desktop and other clients.
 
 Personal Application
->
-Model - state of the sytem from the way its presented to the user - datebase 
-View - HTML - CSS (what you see as a user)
-Controller - MEDIATING/decide WHAT going to chnage and what USER SEES Admin/user/tutor views 
+>When my team first sat down and drafted up the bare bones of our app Study Hall, we did not know a whole lot about what we wanted and what we should have in our app. What we did know however was that we needed to implement a MVC design with whatever direction we took our Study Hall app. We knew that we needed to have a model database to store tutor, user, and class data/information. We knew we needed to have a basic view and layout of our app through HTML and CSS, or no one would be able to access our app. We also knew that we needed to have a controller to mediate and decide what the user would see; weather they were logged in as a tutor, user, or admin. Changing the view based on their login credentials.
 
 
