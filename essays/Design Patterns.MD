@@ -38,7 +38,7 @@ Singleton
 #### A real world example
 >At any given time, there can only be one president of the United States, and that same president is required to be brought to action, whenever he is called.  
 
-#### What going on
+#### What's going on
 >Provide a “global variable” in an object-oriented language that does not support global variables, and/or provide complex global state.
 
 >Ensures that only one object instance of a class is ever created.
@@ -59,7 +59,7 @@ Model View Controller (MVC)
 #### A real world example
 >In a restaurant you never see just one employee take your order, go to the back and cook your food, arrange your food nicely on the plate, then come back out and serve you your food. In a restaurant there are specialties at each step of the process to ensure there is a system to the whole process. I encourage you to watch the <a href="https://youtu.be/f46WEeM8HTA">video link</a> provided so get a more detailed understanding on this real world MVC example. 
 
-#### What going on
+#### What's going on
 >When implementing a user interface, it is desirable to decouple the internal represintation of information from the way it is presented to and accepted from the user.
 
 #### Wikipedia states
