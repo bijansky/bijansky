@@ -14,7 +14,7 @@ labels:
 ---
 
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/DP.png ">
+  <img class="ui image" src="../images/DP.jpg ">
 </div>
 
   Introduction
