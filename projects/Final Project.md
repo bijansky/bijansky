@@ -11,7 +11,7 @@ labels:
   - React
   - Meteor
   - Web App
-summary: My final project for my Software Engineering class ICS 314. 
+summary: Deploying my first web app for my final project in Software Engineering. 
 ---
   Introduction
 =================
