@@ -2,16 +2,16 @@
 layout: project
 type: project
 image: images/study2.png
-title: My First Deployed App
+title: The Best Way To Find A Tutor!
 permalink: projects/javaProject1
 # All dates must be YYYY-MM-DD format!
-date: 2018
+date: 2018-05-09
 labels:
   - Javascript
   - React
   - Meteor
   - Web App
-summary: This project was my final project for my Software Engineering class ICS 314. 
+summary: My final project for my Software Engineering class ICS 314. 
 ---
   Introduction
 =================
