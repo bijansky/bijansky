@@ -52,7 +52,11 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Semantic UI",
+        "React"
       ]
     },
     {
@@ -61,7 +65,7 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],
