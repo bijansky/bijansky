@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Smart Questions
 ---
-  <img align="center" src="../images/stacklogo.png ">
+
   
    In the world of science and technology, we all appreciate a good problem to solve. Weather you are an Engineer, Mathematician, Chemist, or Computer Scientist, just to name a few fields, we are all united as problem solvers. It is the core foundation of our fields of study to solve problems, and proper communication plays a huge role into solving all the problems we will be faced with.  
 
