@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/javaProject1.png
+image: images/study.png
 title: My First Deployed App
 permalink: projects/javaProject1
 # All dates must be YYYY-MM-DD format!
